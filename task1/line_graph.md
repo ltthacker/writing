@@ -1,4 +1,3 @@
-[Home](/main.md)
 ### Line graph
 
 

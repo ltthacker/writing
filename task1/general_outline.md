@@ -1,5 +1,6 @@
-[Home](/main.md)
 ### General outline
+
+
 
 * What information does the introduction contain?
  
